@@ -53,6 +53,6 @@ GPL v2 or later.
 
 ## Author
 
-Author Name:- Vaibhaw Kumar
-Website:- https://vaibhawkumarparashar.in
+Author Name:- Vaibhaw Kumar <br/>
+Website:- https://vaibhawkumarparashar.in <br/>
 Email:- imvaibhaw@gmail.com
