@@ -1,10 +1,6 @@
 # V7 Popup Modal
 
-V7 Popup Modal displays a lightweight, accessible, and responsive modal on your site's homepage. It is fully configurable from the WordPress admin and supports a timed display window.
-
-# V7 Popup Modal
-
-V7 Popup Modal is a small, production-ready WordPress plugin that displays a responsive, accessible popup modal on your site's homepage. It provides admin-configurable content, an optional timed display window, scoped custom CSS, and an integrity check to detect file tampering.
+V7 Popup Modal displays a lightweight, accessible, and responsive modal on your site's homepage. It is fully configurable from the WordPress admin and supports a timed display window. It is a small, production-ready WordPress plugin that displays a responsive, accessible popup modal on your site's homepage. It provides admin-configurable content, an optional timed display window, scoped custom CSS, and an integrity check to detect file tampering.
 
 ## Installation (end users)
 
